@@ -459,7 +459,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>iOSGods App</string>
+			<string>iOSGods App+</string>
 			<key>PayloadDescription</key>
 			<string>Configures settings for a web clip</string>
 			<key>PayloadDisplayName</key>
@@ -475,13 +475,13 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://igsadmin.iosgods.com/signedipas/Y8629V9MEM.plist</string>
+			<string>https://igsadmin.iosgods.com/signedipas/Y8629V9MEM.ipa</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>iOSGods Non-Jailbroken App Store.</string>
 	<key>PayloadDisplayName</key>
-	<string>iOSGods App</string>
+	<string>iOSGods App+</string>
 	<key>PayloadIdentifier</key>
 	<string>iosgods.com.app-profile</string>
 	<key>PayloadOrganization</key>
