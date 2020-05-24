@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iosgods.app</string>
+				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
                 <string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iOSGODS App+</string>
+				<string>unc0ver</string>
 			</dict>
 		</dict>
 	</array>
